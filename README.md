@@ -1,2 +1,2 @@
 # Design-H-Bridge-circuit-
-Designing an H-bridge circuit [ L293D ] using mosfet transistors
+Designing a H-bridge circuit [ L293D ] using mosfet transistors
